@@ -1,2 +1,2 @@
-# js-messenger
+The task from HTML Academy
 
